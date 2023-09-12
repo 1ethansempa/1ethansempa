@@ -1,7 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=1ethansempa&color=brightgreen" alt="watching_count" /></br>
 # Hi, I'm Ethan
-<img src="https://media.giphy.com/media/NKkZbYYsZmRzi/giphy.gif" alt="Ethan Coding" align="right">
+<img src="https://media.giphy.com/media/OVtqvymKkkcTu/giphy.gif" alt="Ethan Coding" align="right">
 
 ### Bio:
 - 🦾 I am a full-stack software developer.
