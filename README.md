@@ -26,15 +26,7 @@
 
 ### Reach Out on:
 [Gmail](ethansempa@gmail.com) 
-[Twitter](https://twitter.com/busigufaithd) 
-[LinkedIn](https://www.linkedin.com/in/busigu-faith-daka-a444765a) <br/>
-
-#
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=1ethansempa&theme=juicyfresh&no-bg=true" /></br> -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=1ethansempa&theme=tokyonight" alt="mystreak" align="right" height="120px"/></br> -->
-[![Faith's github stats](https://github-readme-stats.vercel.app/api?username=1ethansempa&hide=issues&show_icons=true&theme=radical)](https://github.com/1ethansempa/github-readme-stats)
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1ethansempa&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
+[LinkedIn](https://www.linkedin.com/in/ethan-sempa-a7a413196/) <br/>
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1ethansempa&show_icons=true&locale=en&layout=compact" /></p> -->
