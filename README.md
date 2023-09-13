@@ -6,7 +6,8 @@
 ### Bio:
 - 🦾 I am a full-stack software developer.
 - 💻 I primarily use javascript & typescript frameworks. 
-- 😃 I enjoy creating pixel-perfect implementations.
+- 😃 I enjoy implementing pixel-perfect designs.
+- 💙 I enjoy creating seamless APIs.
 - 👉🏼 Pronouns: he/him
 
 ##
