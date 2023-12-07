@@ -5,7 +5,8 @@
 
 ### Bio:
 - 🦾 I am a full-stack software developer.
-- 💻 I primarily use javascript & typescript frameworks. 
+- 💻 I primarily use javascript & typescript frameworks.
+- 📱 I build apps using Flutter & Dart.
 - 😃 I enjoy implementing pixel-perfect designs.
 - 💙 I enjoy creating seamless APIs.
 - 👉🏼 Pronouns: he/him
@@ -28,6 +29,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="30" align="left" alt="D3js" style="margin-top: 2px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="30" align="left" alt="Docker" style="margin-top: 2px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="30" align="left" alt="Graphql" style="margin-top: 2px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" align="left" alt="Flutter" style="margin-top: 2px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="30" align="left" alt="Dart" style="margin-top: 2px;"/>
 </br><br/>
 
 ### Reach Out on:
