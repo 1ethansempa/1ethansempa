@@ -23,7 +23,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="30" align="left" alt="vue" style="margin-top: 2px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" width="30" align="left" alt="nuxtjs" style="margin-top: 2px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" align="left" alt="nodejs" style="margin-top: 2px;"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width="30" align="left" alt="nestjs" style="margin-top: 2px;"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" width="30" align="left" alt="nestjs" style="margin-top: 2px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" align="left" alt="expressjs" style="margin-top: 2px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="30" align="left" alt="flutter" style="margin-top: 2px;"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" width="30" align="left" alt="D3js" style="margin-top: 2px;"/>
