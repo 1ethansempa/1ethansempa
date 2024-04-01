@@ -16,7 +16,7 @@
 </br><br/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" align="left" alt="javascript" style="margin-top: 2px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" align="left" alt="typescript" style="margin-top: 2px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="30" align="left" alt="tailwind" style="margin-top: 2px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="30" align="left" alt="tailwind" style="margin-top: 2px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="30" align="left" alt="bootstrap" style="margin-top: 2px;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" align="left" alt="react" style="margin-top: 2px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" width="30" align="left" alt="nextjs" style="margin-top: 2px;"/>
